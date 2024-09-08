@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447204235288",
+    "project_id": "readerapp-d9ed0",
+    "storage_bucket": "readerapp-d9ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447204235288:android:4a6475cdbdc15e031e8b6d",
+        "android_client_info": {
+          "package_name": "com.eslam.readerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWr477sDMaZrL20SWTQesyU-pjeXD3H5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
